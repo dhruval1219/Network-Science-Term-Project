@@ -1,6 +1,8 @@
-# Network-Science-Term-Project
+# CSC 8980 Network-Science-Term-Project
 
-Project Flavor - Implementation
+### Project Flavor: Implementation
+
+### Paper title: Querying K-Truss Community in Large and Dynamic Graphs
 
 Group Members:
 1) Dhruval Patel
